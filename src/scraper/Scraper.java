@@ -6,5 +6,4 @@ public class Scraper {
     Document searchForm;
     Document mainForm;
     
-    public void 
 }
